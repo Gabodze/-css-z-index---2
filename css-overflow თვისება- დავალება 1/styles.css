@@ -1,0 +1,9 @@
+div{
+    width: 230px;
+    height: 297px;
+    top: 9px;
+    left: 10px;
+    border: 2px solid #CCCCCC;
+    overflow: scroll;
+
+}
